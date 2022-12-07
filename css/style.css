@@ -1,0 +1,42 @@
+* {
+  margin: 0 auto;
+  list-style: none;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+a {
+  color: #212121;
+  text-decoration: none;
+}
+
+body {
+  width: 1280px;
+}
+
+/* HEADER */
+header {
+  background-color: #ffd8e9;
+}
+
+.logo {
+
+}
+
+.logo a {
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.menu {
+
+}
+
+/* MAIN */
+main {
+  background-color: #d1d1ff;
+}
+
+/* FOOTER */
+footer {
+  background-color: #c2ffe9;
+}
